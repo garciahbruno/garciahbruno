@@ -1,6 +1,6 @@
 - Hi, I’m @garciahbruno
 - I’m interested in web development
-- I’m currently learning pandas
+- I’m currently learning PyTorch
 - I'm a student at the University of Michigan
 
 <!---
