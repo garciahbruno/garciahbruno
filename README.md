@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there, I’m Bruno! (@garciahbruno)<br>🎯 Aspiring web developer passionate about clean, functional design<br>🧠 Currently learning R and PyTorch<br>🎓 Student at the University of Michigan<br>💻 Building apps in SwiftUI, writing scripts in Python, and exploring data with R
+👋 Hi there, I’m Bruno! (@garciahbruno)<br>🎯 Aspiring web developer passionate about clean, functional design<br>🧠 Currently learning R and PyTorch<br>🎓 Student at the University of Michigan<br>💻 Building apps in SwiftUI, automating tasks with Python, and exploring data with R
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/brunohg/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brunohg@umich.edu) 
